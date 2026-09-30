@@ -1,0 +1,10 @@
+1.create 5x5 matix values from 1to 25
+extrat last row ,first coloum,mub matrix conttainig 3x3
+
+2.Broadcating multiple shape-(3,1) matrix shap-(3,)
+
+exmple 2, output show: 3 row 1 colum 
+
+2
+3
+4
